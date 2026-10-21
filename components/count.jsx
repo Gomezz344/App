@@ -18,9 +18,11 @@ const styles = StyleSheet.create({
 
     textLight : {
         color : 'black',
+        fontSize : 40
     },
 
     textDark : {
         color : 'white',
+        fontSize : 40
     }
 })
